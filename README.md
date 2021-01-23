@@ -1,54 +1,27 @@
-# Pre-work - *Hello-world 2.0*
+## Pre-work App
 
-**Name of your app** is a tip calculator application for iOS.
+### App Description
+App displays Hello, changes, text colour, background color as well as resets to default settings.
 
-Submitted by: **Your Name Here**
+### App Walk-though
 
-Time spent: **X** hours spent in total
+<img src= https://i.imgur.com/nYuCmJs.gif
+width=200><br>
 
-## User Stories
+### Required User Stories
+- [x] 1. User sees custom text in a label - Hello from {name}!
+- [x] 2. User see's custom background color.
+- [x] 3. User can tap a button to change the text color of the label.
 
-The following **required** functionality is complete:
+### Optional User Stories
+- [x] 1. User can tap a button to change the color of the background view.
+- [ ] 2. User can tap a button to change the text string of the label - Goodbye 👋.
+- [x] 3. User can tap on the background view to reset all views to default settings.
+- [ ] 4. User can update the label text with custom text entered into the text field.
+   - [ ] a. User can enter text into a text field using the keyboard.
+   - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
+   - [ ] c. If the text field is empty, update label with default text string.
+   - [ ] d. The keyboard is dismissed after the button has been tapped.
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
-
-The following **optional** features are implemented:
-
-* [x] UI animations
-* [x] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-![](https://i.imgur.com/4DhHUF6.gif)
-
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
-## License
-
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+### Animated gif of App
+- [x] 1.Including an animated gif of your app in action.
